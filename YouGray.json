@@ -1,11 +1,11 @@
 {
-    "name": "myGray",
+    "name": "YouGray",
     "description": "gray based on material you :3",
     "version": "1.0",
     "authors": [
       {
-        "name": "NoReplyUI5",
-        "id": "1053918356375351386"
+        "name": "dor4a #avtvshutup",
+        "id": "455513497288310785"
       }
     ],
     "semanticColors": {
@@ -72,6 +72,7 @@
 		"REDESIGN_BUTTON_SECONDARY_OVERLAY_TEXT":  [ "#B1B1B1" ],
 		"REDESIGN_BUTTON_PRIMARY_BACKGROUND":  [ "#262626" ],
 		"REDESIGN_BUTTON_PRIMARY_ALT_BACKGROUND":  [ "#262626" ],
+		"REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND":  [ "#4C4C4C" ],
 		"REDESIGN_BUTTON_PRIMARY_TEXT":  [ "#B1B1B1" ],
 		"REDESIGN_INPUT_CONTROL_SELECTED":  [ "#B1B1B1" ],
 		"BG_BACKDROP":  [ "#0A0A0Aaa" ],
