@@ -331,8 +331,8 @@
 "plus":{
    "version":"0",
    "iconpack":"rosiecord-plumpy",
-   "customOverlays": true,
    "mentionLineColor": "#B1B1B1",
+   "customOverlays": true,
    "icons":{
       "AccessibilityIcon": "#a79ab3",
       "account": "#31748f",
