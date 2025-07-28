@@ -64,11 +64,6 @@
 "PLUM_17": "111111",
 "PLUM_24": "333344"
 },
-  "background": {
-"blur": 1.0,
-// "url": "https://files.catbox.moe/6xaz8a.png",
-"alpha": 1.0
-  },
 "spec": 2,
 "plus": {"version": 0,
 "iconpack": "md3",
